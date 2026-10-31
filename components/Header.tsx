@@ -36,7 +36,7 @@ export default function Header({
           </div>
           <div className="mt-0.5 flex items-baseline gap-2">
             <h1 className="truncate text-lg font-semibold tracking-tight text-slate-950 sm:text-xl">
-              MINDLET
+              MHSE
             </h1>
             <p className="hidden text-sm text-slate-500 md:block">
               개인용 메모 보드

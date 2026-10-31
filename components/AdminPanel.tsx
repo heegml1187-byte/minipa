@@ -71,7 +71,7 @@ export default function AdminPanel({
         <div className="flex items-start justify-between gap-4">
           <div>
             <p className="text-xs font-bold tracking-[0.18em] text-sky-600">
-              MINDLET ADMIN
+              MHSE ADMIN
             </p>
             <h2 className="mt-1 text-xl font-semibold">관리자 패널</h2>
           </div>
